@@ -12,6 +12,7 @@ tagline:          'Personal research webpage'
 description:      'PhD Candidate at TSE'
 url:              https://alejandromizrahi.github.io
 baseurl:          ""
+theme: jekyll-theme-hyde
 
 author:
   name:           'Alejandro Mizrahi Cengarle'
