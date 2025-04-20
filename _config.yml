@@ -15,7 +15,5 @@ baseurl:          ''
 
 author:
   name:           'Alejandro Mizrahi Cengarle'
-
-theme: jekyll-theme-hyde
   
 paginate:         5
