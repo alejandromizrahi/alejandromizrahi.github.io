@@ -8,19 +8,15 @@ relative_permalinks: true
 
 # Setup
 title:            Alejandro Mizrahi Cengarle
-tagline:          'A Jekyll theme'
+tagline:          'Personal research webpage'
 description:      'PhD Candidate at TSE'
 url:              alejandromizrahi.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
+  name:           'Alejandro Mizrahi Cengarle'
+  
 paginate:         5
 
 # Custom vars
 version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
