@@ -1,7 +1,7 @@
 ---
- layout: default
- title: Home
- ---
+layout: default
+title: Home
+---
  
 ## Work in progress
  1. The Land Use Impact of Solar Energy
