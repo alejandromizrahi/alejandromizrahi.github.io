@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Alejandro Mizrahi Cengarle
 tagline:          'Personal research webpage'
 description:      'PhD Candidate at TSE'
-url:              alejandromizrahi.github.io
+url:              https://alejandromizrahi.github.io
 baseurl:          ""
 
 author:
