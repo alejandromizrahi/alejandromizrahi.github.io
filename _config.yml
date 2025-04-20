@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# markdown:         redcarpet
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -11,12 +11,9 @@ title:            Alejandro Mizrahi Cengarle
 tagline:          'Personal research webpage'
 description:      'PhD Candidate at TSE'
 url:              alejandromizrahi.github.io
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Alejandro Mizrahi Cengarle'
   
 paginate:         5
-
-# Custom vars
-version:          2.1.0
