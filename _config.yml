@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Alejandro Mizrahi Cengarle
 tagline:          'Personal research webpage'
-description:      'PhD Candidate at TSE'
+description:      'PhD Candidate at <a href="https://www.tse-fr.eu/fr/people/alejandro-mizrahi-cengarle" target="_blank">TSE</a>'
 url:              https://alejandromizrahi.github.io
 baseurl:          ''
 
