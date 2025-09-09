@@ -11,5 +11,6 @@ baseurl:          ''
 
 author:
   name:           'Alejandro Mizrahi Cengarle'
+  url:             https://www.tse-fr.eu/fr/people/alejandro-mizrahi-cengarle
   
 paginate:         5
