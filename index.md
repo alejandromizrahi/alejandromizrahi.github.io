@@ -9,7 +9,7 @@ Email: alejandro.mizrahi [at] tse-fr [dot] edu
  
 ## Work in progress
  1. Solar Energy Expansion on Agricultural Land: Evidence from Spain
- 2. How Efficient are Energy Efficiency Markets? Evidence from the Victoria Energy Upgrades
+ 2. Energy Efficiency Programs for Climate Policy
  
 ## Publications
  1. [Measuring the Impact of Time-of-Use Pricing on Electricity Consumption: Evidence from Spain](https://www.sciencedirect.com/science/article/abs/pii/S0095069623001195), with Jacint Enrich, Ruoyi Li, and Mar Reguant, *Journal of Environmental Economics and Management*, Volume 123, January 2024, 102901.
